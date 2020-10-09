@@ -22,7 +22,7 @@ En conclusion, il serait intéressant dans un second temps de pouvoir rendre le 
 
 [WireFrame](http://wireframepro.mockflow.com/view/M8544a8a3684caba63d8df04a09ba7f8a1601374661160#/page/27ec8547002e4c2fa2f0eeca6d435116)
 
-[Site](https://fabiend31.github.io/Projet1/)
+[Site](https://sebastienbages.github.io/WCS-Projet-1-WCS-for-sale/)
 
 ## Notre Equipe
 
