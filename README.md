@@ -18,6 +18,10 @@ Depuis l'accueil du site, le client peut accéder à différentes pages du site 
 
 En conclusion, il serait intéressant dans un second temps de pouvoir rendre le site dynamique (base de données) et de réfléchir à la mise en place d'un système de transaction en ligne.
 
+## Contenu :
+
+L'ensemble des données sur les wilders (excepté les prénoms) sont fictives et ont été sélectionnées par chaque wilder de la promo via l'envoi d'un formulaire. Les photos, traits et autres sont affichés dans un but humouristique.
+
 ## Links
 
 [WireFrame](http://wireframepro.mockflow.com/view/M8544a8a3684caba63d8df04a09ba7f8a1601374661160#/page/27ec8547002e4c2fa2f0eeca6d435116)
